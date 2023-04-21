@@ -1,0 +1,3 @@
+dist/
+spark_sql_to_sqlite.egg-info/
+venv/
