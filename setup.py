@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='spark_sql_to_sqlite',
-    version='0.6',
+    version='0.7',
     packages=find_packages(),
     install_requires=[
         'pyspark',
